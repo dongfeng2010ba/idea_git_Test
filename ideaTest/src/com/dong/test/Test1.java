@@ -9,6 +9,7 @@ public class Test1 {
         int pow = pow(2, 3);
         int k =3;
         int m =4;
+        int o = 6;
 
         System.out.println("hello,github");
 

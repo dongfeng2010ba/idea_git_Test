@@ -7,6 +7,7 @@ public class Test1 {
         int i=1;
         int j=2;
         int pow = pow(2, 3);
+        int k =3;
 
         System.out.println("hello,github");
 

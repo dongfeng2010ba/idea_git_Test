@@ -4,6 +4,7 @@ import java.util.Stack;
 
 public class Test1 {
     public static void main(String[] args) {
+        int i=1;
         int pow = pow(2, 3);
 
         System.out.println("hello,github");
